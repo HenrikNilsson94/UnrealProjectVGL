@@ -11,10 +11,6 @@
 				"Win64",
 				"HoloLens"
 			]
-		},
-		{
-			"Name": "MultiUserClient",
-			"Enabled": true
 		}
 	]
 }
