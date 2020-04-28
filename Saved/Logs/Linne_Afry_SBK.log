@@ -739,3 +739,9 @@ Make sure 'RightHand_AnimBP' has been compiled for  Get Hand
 [2020.04.28-08.46.14:502][624]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.28-08.46.14:503][624]LogContentValidation: Display: Validating World /Game/ACreatedContentLinne/Linne_VR.Linne_VR
 [2020.04.28-08.46.14:503][624]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ACreatedContentLinne/Linne_VR_BuiltData.Linne_VR_BuiltData
+[2020.04.28-08.47.21:068][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.04.28-08.47.21:281][942]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/UnrealProjectVGL/Saved/Linne_VRA7CB72AD49D027F00F035CB28E1D19CD.tmp' to '../../../../../../Users/User/Documents/GitHub/UnrealProjectVGL/Content/ACreatedContentLinne/Linne_VR.umap'
+[2020.04.28-08.47.21:348][942]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/UnrealProjectVGL/Saved/Linne_VR_BuiltData5F06060445352F99F526759F8D1821CC.tmp' to '../../../../../../Users/User/Documents/GitHub/UnrealProjectVGL/Content/ACreatedContentLinne/Linne_VR_BuiltData.uasset'
+[2020.04.28-08.47.21:364][942]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.28-08.47.21:364][942]LogContentValidation: Display: Validating World /Game/ACreatedContentLinne/Linne_VR.Linne_VR
+[2020.04.28-08.47.21:364][942]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ACreatedContentLinne/Linne_VR_BuiltData.Linne_VR_BuiltData
